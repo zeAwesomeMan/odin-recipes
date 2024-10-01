@@ -1,4 +1,27 @@
-.odin-recipe{
-    background-color: aliceblue;
-    color: salmon;
+.text{
+    font-family: sans-serif;
+}
+
+.mainn{
+    background-color: #6e7649;
+    color: black;
+    width: 50%;
+}
+
+body{
+    background-size: cover;
+    background-position: center top;
+    background-color: #c7c397;
+}
+.list-of-recipes.text li{
+    background-color: #9d9754;
+    font-size: 22px;
+    color:#e7e3b5;
+    width: 60%;
+}
+.food-image{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px solid #6e7649;
 }
